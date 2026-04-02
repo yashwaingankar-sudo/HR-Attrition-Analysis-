@@ -1,4 +1,4 @@
-bn# HR-Attrition-Analysis-
+HR-Attrition-Analysis-
 Power BI dashboard analyzing workforce attrition patterns, identifying high-risk roles, and uncovering key drivers such as tenure, overtime, and job satisfaction.
 ## 📊 Overview
 This project presents an interactive Power BI dashboard designed to analyze employee attrition patterns and identify high-risk segments within the organization.

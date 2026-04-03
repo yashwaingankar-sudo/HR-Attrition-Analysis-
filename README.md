@@ -1,6 +1,4 @@
-# 📊 HR Attrition Analysis Dashboard
-
-> Power BI dashboard analyzing workforce attrition patterns, identifying high-risk roles, and uncovering key drivers such as tenure, overtime, and job satisfaction.
+# HR Attrition Analysis Dashboard 📊💼
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge)
 ![Analysis](https://img.shields.io/badge/Type-Data%20Analysis-blue?style=for-the-badge)
@@ -8,89 +6,126 @@
 
 ---
 
-## 📌 Overview
-This project presents an interactive Power BI dashboard designed to analyze employee attrition patterns and identify high-risk segments within the organization.
-
-The dashboard provides both a high-level overview and a deep dive into key drivers of attrition, enabling data-driven HR decision-making.
+## 📌 Internship Project
+This project was developed during my internship to analyze employee attrition patterns and provide data-driven insights for workforce management and retention strategies.
 
 ---
 
-## 🎯 Objectives
-- Identify departments and job roles with high attrition  
-- Analyze the impact of overtime, business travel, and tenure  
-- Understand demographic and behavioral factors affecting attrition  
-- Support data-driven employee retention strategies  
+## 🧩 Background & Context
+In a high-skill, fast-paced organization, employee attrition can lead to:
+- Loss of critical expertise  
+- Increased hiring and onboarding costs  
+- Disruption in long-term projects  
+- Reduced team morale and productivity  
+
+This project helps HR leadership understand **where attrition is happening and why**, enabling proactive decision-making.
+
+---
+
+## ❗ Problem Statement
+Despite having detailed employee data, organizations often lack clarity on:
+- Which departments and roles have the highest attrition  
+- Whether attrition is concentrated in specific age groups or tenure bands  
+- The impact of overtime and business travel on employee exits  
+- Whether early-career employees are more likely to leave  
+
+---
+
+## 🎯 Objective
+To analyze workforce data and:
+- Identify key drivers of employee attrition  
+- Segment high-risk employee groups  
+- Provide actionable insights for retention strategies  
+
+---
+
+## 📊 Dashboard Preview
+
+### 📍 Page 1: Workforce Overview
+![Dashboard](HR%20Attrition%20Overview%20Dashboard%20PG%2001.png)
+
+### 📍 Page 2: Attrition Drivers Analysis
+![Dashboard](HR%20Attrition%20Drivers%20Analysis.%20PG%2002.png)
+
+---
+
+## 📈 Key Performance Indicators (KPIs)
+- Total Employees: **1470**  
+- Attrition Count: **237**  
+- Attrition Rate: **16%**  
+- Average Tenure: **7.01 years**  
+
+---
+
+## ⚙️ Analytical Methodology
+
+### 🔹 Data Preparation
+- Cleaned and validated attrition labels  
+- Handled missing and inconsistent records  
+- Standardized department and job role names  
+
+### 🔹 Attrition Analysis
+- Overall attrition rate calculation  
+- Department and role-wise attrition  
+- Demographic segmentation (age, gender, education)  
+
+### 🔹 Workforce Behavior Analysis
+- Tenure-based attrition trends  
+- Impact of overtime and business travel  
+- Promotion delays and career progression impact  
 
 ---
 
 ## 📌 Key Insights
-- Early-tenure employees (0–2 years) show the highest attrition rates  
-- Sales roles experience significantly higher attrition compared to other roles  
-- Overtime is strongly associated with increased attrition risk  
-- Low job satisfaction and poor work-life balance contribute to employee exits  
-- Longer gaps since last promotion correlate with higher attrition  
+- Early-career employees (0–2 years) show highest attrition (**30%**)  
+- Sales roles have the highest attrition (~**40%**)  
+- Employees working overtime have significantly higher attrition (**31%**)  
+- Low job satisfaction and poor work-life balance drive exits  
+- Frequent business travel increases attrition risk  
 
 ---
 
-## 📈 Dashboard Features
-- KPI cards (Total Employees, Attrition Rate, Avg Tenure, Employees Left)  
-- Attrition analysis by job role, age group, and business travel  
-- Employee distribution (Active vs Exited)  
-- Impact of overtime on attrition  
-- Deep-dive analysis on tenure, satisfaction, promotion, and demographics  
-- Interactive slicers (Department, Gender, Age)  
+## 💡 Business Recommendations
+- Focus retention strategies on early-career employees  
+- Reduce overtime workload to prevent burnout  
+- Improve job satisfaction through engagement programs  
+- Provide faster promotion opportunities to reduce stagnation  
+- Monitor high-risk roles like Sales with targeted interventions  
 
 ---
 
-## 🛠️ Tools & Technologies
-- Power BI  
-- DAX (Data Analysis Expressions)  
-- Data Modeling  
-- Data Visualization  
+## 👤 User Capabilities
+- Department and job role filtering  
+- Age group and tenure segmentation  
+- Overtime and travel impact analysis  
+- Interactive dashboard exploration  
 
 ---
 
-## 📷 Dashboard Preview
-
-### 🔹 Page 1: Attrition Overview
-[![Attrition Overview](images/01_Attrition_Overview_Dashboard.png)](https://drive.google.com/file/d/1J5534rovhlElPsnbM_XKhvjQLvW6DqOS/view?usp=drive_link)
-
-### 🔹 Page 2: Attrition Drivers & Root Cause Analysis
-[![Attrition Drivers](images/02_Attrition_Drivers_Analysis.png)](https://drive.google.com/file/d/1AD8WbK8XRvADdE0V_XASKdNx8hY90yRN/view?usp=drive_link)
+## 📂 Project Files
+- 📊 [Download Power BI File (.pbix)](https://drive.google.com/file/d/1rz9wXtoMHMj_7H4YI6rJwqxfwzTc26Gi/view?usp=drive_link)
+- 📄 [Project Report / Documentation](https://drive.google.com/file/d/1-0_oUSywPgmQ1Xtfw6TwhEYbN_HWuFUH/view?usp=drive_link) 
 
 ---
 
 ## 🎥 Demo Video
-[▶️ Watch Dashboard Demo](video/HR_Attrition_Dashboard_Demo.mp4)
+[▶ Watch Demo Video](ADD_YOUR_LINK_HERE)
 
 ---
 
-## 📥 Download Files
-- [📊 Power BI File (.pbix)](https://drive.google.com/file/d/1rz9wXtoMHMj_7H4YI6rJwqxfwzTc26Gi/view?usp=drive_link)
-- [📄 Project Report (.pdf)](https://drive.google.com/file/d/1-0_oUSywPgmQ1Xtfw6TwhEYbN_HWuFUH/view?usp=drive_link)
+## 🧾 Conclusion
+This project provides a comprehensive view of employee attrition by combining demographic, behavioral, and organizational factors.  
+
+It enables HR teams to move from **reactive decision-making to proactive workforce planning**, helping reduce attrition and improve overall organizational performance.
 
 ---
 
-## 📁 Project Files
-- `.pbix` → Power BI Dashboard File  
-- `.pdf` → Project Report  
-- `.png` → Dashboard Screenshots  
-- `.mp4` → Demo Video  
-
----
-
-## 🚀 How to Use
-1. Download the `.pbix` file  
-2. Open in Power BI Desktop  
-3. Use slicers and filters to explore insights  
-
----
-
-## 💡 Business Impact
-- Identifies high-risk employee segments  
-- Helps improve retention strategies  
-- Reduces hiring and onboarding costs  
-- Supports better workforce planning  
+## 👨‍💻 My Contribution
+- Designed and developed the Power BI dashboard  
+- Performed data cleaning and transformation  
+- Conducted in-depth attrition analysis  
+- Identified key drivers and patterns  
+- Delivered actionable business insights  
 
 ---
 

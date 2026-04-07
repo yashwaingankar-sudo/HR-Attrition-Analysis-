@@ -113,6 +113,23 @@ To analyze workforce data and:
 
 ---
 
+## 📊 Project Explanation
+
+This project analyzes employee attrition to identify key drivers such as tenure, job satisfaction, overtime, and business travel.
+
+#### 🔍 Key Highlights
+- Identified high attrition among early-career employees (0–2 years)  
+- Found strong impact of overtime and business travel on attrition  
+- Highlighted key drivers like job satisfaction and promotion delays  
+
+📥 [Download Full PPT (GitHub)](HR%20Attrition%20Analysis%20Dashboard%20Explanation.pptx)  
+
+🌐 [View PPT Online (Google Drive)](https://docs.google.com/presentation/d/1kmctqNfwwTRxicy3N9ByqlO0Z5t40sGj/edit?usp=drive_link&ouid=105173920197730604396&rtpof=true&sd=true)
+
+
+---
+
+
 ## 🧾 Conclusion
 This project provides a comprehensive view of employee attrition by combining demographic, behavioral, and organizational factors.  
 
